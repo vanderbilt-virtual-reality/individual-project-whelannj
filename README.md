@@ -1,7 +1,9 @@
-# individual-project-whelannj
-individual-project-whelannj created by GitHub Classroom
+# Nick Whelan's Individual Project
+VR Filmmaking
 
-README GOES HERE
+I wholeheartedly believe that VR is the future of filmmaking and, as a film major, this was something that I knew that I had to explore as my individual project.
+
+I began with intentions of filming my own 360* video, but ran into issues with that (mostly derrived from the hardware limitations) and decided to make a sort of VR movie theatre instead.
 
 Submit to your personal github repo found here: https://classroom.github.com/assignment-invitations/d7ac4a477cb55b97dac212dfa344ca76
 
