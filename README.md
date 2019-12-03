@@ -7,6 +7,8 @@ I began with intentions of filming my own 360* video, but ran into issues with t
 
 To be incredibly clear, the video that you see was not created for this class. It is still entirely my work and my intellectual property, but I made a concious decision to display this piece instead of ripping a random YouTube video off of the internet. This project is focused on my explorations of the virtual space that filmmaking will soon take its stake in, but I wanted to make it clear that the film itself was not designed for this class since I know that that's technically plagarizing yourself and that was not my intent.
 
+I would also like to add that I recognize that my project might be a little less impressive immediately than others, but I did put in the work. Almost all of the time that I spent on this project was learning the procedures behind video imports and with the issues that I mention. I wanted to create a more complex movie theatre with a variety of videos to choose from, but getting this one video onto GitHub was way harder than I could've ever imagined.
+
 Submit to your personal github repo found here: https://classroom.github.com/assignment-invitations/d7ac4a477cb55b97dac212dfa344ca76
 
 Full Project Folder
