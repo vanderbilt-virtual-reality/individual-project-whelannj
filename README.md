@@ -21,4 +21,4 @@ Why is VR a good medium to achieve your goals?
 
 Critiques or limitations of VR for your goals?
 
-Issues so Far: Learning how to Import Video into Unity, Making it Skybox, LF replaced by CRLF error, file too large
+Issues so Far: Learning how to Import Video into Unity, Making it Skybox, LF replaced by CRLF error (installed git bash and made changes), file too large (git lfs)
