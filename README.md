@@ -15,7 +15,6 @@ Windows Executable Build Folder
 
 Video Screen Capture of Game in Action (use built in Windows recorder found in Game Bar, or software of your choosing)
 
-
 Anything the user needs to know to play/run game
 
 Why did you make this?  Your intention or motivation
